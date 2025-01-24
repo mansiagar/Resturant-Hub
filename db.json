@@ -1,0 +1,9 @@
+{
+  "Resturant": [
+    { "id": 1, "name": "The Gourmet Kitchen", "rating": 4.5, "distance": 2.1 },
+    { "id": 2, "name": "Sushi Heaven", "rating": 4.8, "distance": 3.2 },
+    { "id": 3, "name": "Burger House", "rating": 3.9, "distance": 1.8 },
+    { "id": 4, "name": "Pizza Palace", "rating": 4.2, "distance": 2.7 },
+    { "id": 5, "name": "Taco Town", "rating": 3.5, "distance": 4.1 }
+  ]
+}
